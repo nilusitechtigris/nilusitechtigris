@@ -2,7 +2,7 @@
 
 **Software & AI engineer in Budapest. I test what AI actually does on real hardware, and publish the numbers, including when it fails.**
 
-By day I build data products and MCP servers. Before that: motor-control software, camera inspection,
+By day I build AI agents, agent harnesses, MCP servers and data products. Before that: motor-control software, camera inspection,
 sensor calibration and test rigs. That's why I trust a measurement more than a demo.
 
 ---
